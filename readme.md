@@ -132,15 +132,12 @@ Containerize it on AWS ECS, Lambda (with Layers), or GCP Cloud Run.
 
 ---
 
+## Source: 
+[Kdnuggets] https://www.kdnuggets.com/build-your-own-simple-data-pipeline-with-python-and-docker
+
 ## 👤 Author
 
 **Paulo Chernicharo**\
 [GitHub](https://github.com/pchernic)\
 [LinkedIn](https://www.linkedin.com/in/pchernic/)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
